@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "js",
+        "module": "commonjs",
+        "sourceMap": true
+    },
+    "files": [
+       // whichever files we place here will be compiled, along with their dependencies
+        "app/app.ts",
+        "typings/index.d.ts"
+    ]
+}
